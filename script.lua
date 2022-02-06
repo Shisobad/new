@@ -19,4 +19,6 @@ elseif id == 7485253727 then --TruePiece
     loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/TruePiece/main/script.lua")()  
 elseif id == 5303541547 then --TwoPiece
     loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/TwoP/main/script.lua")()
+elseif id == 7560156054 then --TwoPiece
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/CS/main/script.lua")()
 end
