@@ -19,6 +19,8 @@ elseif id == 7485253727 then --TruePiece
     loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/TruePiece/main/script.lua")()  
 elseif id == 5303541547 then --TwoPiece
     loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/TwoP/main/script.lua")()
-elseif id == 7560156054 then --TwoPiece
+elseif id == 7560156054 then --Click
     loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/CS/main/script.lua")()
+elseif id == 6329844902 then --LastPirats
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/LP/main/script.lua")()
 end
