@@ -13,8 +13,6 @@ elseif id == 4520749081 or id == 6381829480 then --KL
     loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/KL/main/script.lua")()   
 elseif id == 6284583030 then --PetX
     loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/PetX/main/script.lua")() 
-elseif id == 7056922815 then --Reaper
-
 elseif id == 7485253727 then --TruePiece
     loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/TruePiece/main/script.lua")()  
 elseif id == 5303541547 then --TwoPiece
@@ -25,4 +23,6 @@ elseif id == 6329844902 then --LastPirats
     loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/LP/main/script.lua")()
 elseif id == 8069117419 then --Demon Soul
     loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/ds/main/script.lua")()
+elseif id == 7655489843 then --Anime X
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/ax/main/script.lua")()
 end
