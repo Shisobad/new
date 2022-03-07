@@ -23,4 +23,6 @@ elseif id == 7560156054 then --Click
     loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/CS/main/script.lua")()
 elseif id == 6329844902 then --LastPirats
     loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/LP/main/script.lua")()
+elseif id == 8069117419 then --LastPirats
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/ds/main/script.lua")()
 end
