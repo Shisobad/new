@@ -25,4 +25,6 @@ elseif id == 8069117419 then --Demon Soul
     loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/ds/main/script.lua")()
 elseif id == 7655489843 then --Anime X
     loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/ax/main/script.lua")()
+elseif id == 8396586868 then --A one piece game
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/DookDekDEE/AOPG/main/script.lua")()
 end
